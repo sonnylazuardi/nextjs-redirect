@@ -2,7 +2,7 @@ export async function getServerSideProps() {
   return {
     redirect: {
       permanent: false,
-      destination: "https://flipbook.framer.website",
+      destination: "https://sonnylab.com/flipbook",
     },
   };
 }
