@@ -6,7 +6,6 @@ export async function getServerSideProps() {
     },
   };
 }
-
 export default function Home() {
   return null;
 }
