@@ -2,7 +2,7 @@ export async function getServerSideProps() {
   return {
     redirect: {
       permanent: false,
-      destination: "https://github.com/sonnylazuardi/chat-ai-desktop",
+      destination: "https://sonnylab.framer.website",
     },
   };
 }
