@@ -2,7 +2,7 @@ export async function getServerSideProps() {
   return {
     redirect: {
       permanent: false,
-      destination: "https://sonnylab.framer.website",
+      destination: "https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp",
     },
   };
 }
